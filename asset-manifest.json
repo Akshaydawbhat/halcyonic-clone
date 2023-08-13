@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/halcyonic-clone/static/css/main.0ea9a43f.css",
+    "main.js": "/halcyonic-clone/static/js/main.3d6695ee.js",
+    "index.html": "/halcyonic-clone/index.html",
+    "main.0ea9a43f.css.map": "/halcyonic-clone/static/css/main.0ea9a43f.css.map",
+    "main.3d6695ee.js.map": "/halcyonic-clone/static/js/main.3d6695ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea9a43f.css",
+    "static/js/main.3d6695ee.js"
+  ]
+}
